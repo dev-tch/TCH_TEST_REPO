@@ -1,6 +1,6 @@
 ## api-endpoints
 
-$${\color{red}Api-1 : Assign Agent To Window}$$
+$${\color{red}Api-1 \space \color{lightblue}Assign  \space Window \space To \space Window }$$
 
 POST /api/windows/<int:number_window>/assign-agent/
 
