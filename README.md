@@ -176,6 +176,6 @@ This API endpoint allows an authenticated client to enable or disable tracking o
 
 ```json
 {
-  "counter": 80
+  "message": "enable notifications for offices applied successfully"
 }
 ```
