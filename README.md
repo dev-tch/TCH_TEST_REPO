@@ -143,6 +143,6 @@ This API endpoint allows an authenticated Agent, assigned to a specific window w
 
 ```json
 {
-  'counter': 80
+  "counter": 80
 }
 ```
